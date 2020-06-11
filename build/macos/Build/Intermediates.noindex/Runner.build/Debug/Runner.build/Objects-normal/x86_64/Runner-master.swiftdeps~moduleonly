@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
-options: "394a9a915bc98e15d3e2dd51da85d56e"
-build_time: [1591795335, 379865000]
+options: "edfd4b64e364f1eef0f0d12a088632f2"
+build_time: [1591882780, 246982000]
 inputs:
-  "/Users/linwei/Desktop/myapp/macos/Runner/MainFlutterWindow.swift": [1591623135, 417249364]
-  "/Users/linwei/Desktop/myapp/macos/Runner/AppDelegate.swift": [1591623135, 413940917]
-  "/Users/linwei/Desktop/myapp/macos/Flutter/GeneratedPluginRegistrant.swift": [1591795327, 690921902]
+  "/Users/linwei/Desktop/Fib/macos/Runner/MainFlutterWindow.swift": [1591623135, 417249364]
+  "/Users/linwei/Desktop/Fib/macos/Runner/AppDelegate.swift": [1591623135, 413940917]
+  "/Users/linwei/Desktop/Fib/macos/Flutter/GeneratedPluginRegistrant.swift": [1591882767, 350132728]
