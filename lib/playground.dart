@@ -12,7 +12,7 @@ class Playground extends StatefulWidget {
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
 
-  final String title = 'Flutter Demo Home Page';
+  final String title = 'ZNUIKit';
 
   @override
   _PlaygroundState createState() => _PlaygroundState();
